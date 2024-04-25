@@ -11,7 +11,7 @@ Sou um estudante de Analise e Desenvolvimento de Sistemas, em transição de car
 ## 🛠 Habilidades
 
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) || 	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) || 	![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) |
-| ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
+
 
 ## Meus Projetos
 
